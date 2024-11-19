@@ -1,0 +1,90 @@
+This project uses third-party libraries with the following licenses:
+
+---
+
+### Apache License 2.0
+The following modules are licensed under Apache License 2.0:
+- aiohttp 3.11.2
+- aiosignal 1.3.1
+- async-timeout 5.0.1
+- frozenlist 1.5.0
+- google-ai-generativelanguage 0.6.10
+- google-api-core 2.23.0
+- google-api-python-client 2.153.0
+- google-auth 2.36.0
+- google-auth-httplib 20.2.0
+- google-generativeai 0.8.3
+- googleapis-common-protos 1.66.0
+- grpcio 1.68.0
+- grpcio-status 1.68.0
+- multidict 6.1.0
+- propcache 0.2.0
+- proto-plus 1.25.0
+- requests 2.32.3
+- rsa 4.9
+- uritemplate 4.1.1
+- yarl 1.17.2
+
+The full text of the Apache License 2.0 can be found in the following file:
+`LICENSES/Apache-2.0.txt`
+
+---
+
+### Mozilla Public License 2.0
+The following modules are licensed under Mozilla Public License 2.0:
+- certifi 2024.8.30
+
+The full text of the Mozilla Public License 2.0 can be found in the following file:
+`LICENSES/MPL-2.0.txt`
+
+---
+
+### MIT License
+The following modules are licensed under MIT License:
+- annotated-types 0.7.0
+- attrs 24.2.0
+- cachetools 5.5.0
+- charset-normalizer 3.4.0
+- httplib 20.22.0
+- openai 0.28.0
+- pydantic 2.9.2
+- pydantic_core 2.23.4
+- pyparsing 3.2.0
+- tqdm 4.67.0
+- urllib 32.2.3
+
+The full text of the MIT License can be found in the following file:
+`LICENSES/MIT.txt`
+
+---
+
+### PythonSoftwareFoundation License
+The following modules are licensed under PythonSoftwareFoundation License:
+- aiohappyeyeballs 2.4.3
+- typing_extensions 4.12.2
+
+The full text of the MIT License can be found in the following file:
+`LICENSES/PSF-python3.9.20.txt`
+
+---
+
+### BSD License
+The following modules are licensed under BSD License:
+- idna 3.10
+- pyasn 10.6.1
+- pyasn1_modules 0.4.1
+
+The full text of the MIT License can be found in the following file:
+`LICENSES/BSD.txt`
+
+---
+
+### 3-ClauseBSD License
+The following modules are licensed under 3-ClauseBSD License:
+- protobuf 5.28.3
+
+The full text of the MIT License can be found in the following file:
+`LICENSES/3-ClauseBSD.txt`
+
+---
+For more information about the specific modules and their licenses, please refer to the dependencies list in this project.
